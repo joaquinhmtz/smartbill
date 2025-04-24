@@ -26,6 +26,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Reinstall missing makers (for CI)
+        run: npm install @electron-forge/maker-squirrel
+
       - name: Build Windows Installer
         run: npm run make
 
