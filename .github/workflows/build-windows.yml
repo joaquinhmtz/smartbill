@@ -29,6 +29,10 @@ jobs:
       - name: Reinstall missing makers (for CI)
         run: npm install @electron-forge/maker-squirrel
 
+      - name: Install Visual Studio Build Tools
+        run: |
+          choco install visualstudio2019buildtools --package-parameters "--add Microsoft.VisualStudio.Workload.NativeDesktop --quiet --norestart --wait"
+
       - name: Build Windows Installer
         run: npm run make
 
