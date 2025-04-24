@@ -1,0 +1,128 @@
+[
+  {
+    "timestamp": "2025-04-24T06:15:05.405Z",
+    "app": "Electron",
+    "windowTitle": "SmartBill Control",
+    "durationSeconds": 5
+  },
+  {
+    "timestamp": "2025-04-24T06:15:10.413Z",
+    "app": "Microsoft Edge",
+    "windowTitle": "SmartBill by REXX AI (Software para control horas) and 15 more pages - Personal - Microsoft​ Edge",
+    "durationSeconds": 220
+  },
+  {
+    "timestamp": "2025-04-24T06:18:50.735Z",
+    "app": "WhatsApp.exe",
+    "windowTitle": "WhatsApp",
+    "durationSeconds": 10
+  },
+  {
+    "timestamp": "2025-04-24T06:19:00.741Z",
+    "app": "Windows Explorer",
+    "windowTitle": "Snap Assist",
+    "durationSeconds": 5
+  },
+  {
+    "timestamp": "2025-04-24T06:19:05.756Z",
+    "app": "Microsoft Edge",
+    "windowTitle": "New tab and 16 more pages - Personal - Microsoft​ Edge",
+    "durationSeconds": 10
+  },
+  {
+    "timestamp": "2025-04-24T06:19:15.773Z",
+    "app": "Microsoft Edge",
+    "windowTitle": "DeepSeek and 16 more pages - Personal - Microsoft​ Edge",
+    "durationSeconds": 5
+  },
+  {
+    "timestamp": "2025-04-24T06:19:20.772Z",
+    "app": "Microsoft Edge",
+    "windowTitle": "DeepSeek and 17 more pages - Personal - Microsoft​ Edge",
+    "durationSeconds": 5
+  },
+  {
+    "timestamp": "2025-04-24T06:19:25.776Z",
+    "app": "Microsoft Edge",
+    "windowTitle": "DeepSeek - Into the Unknown and 16 more pages - Personal - Microsoft​ Edge",
+    "durationSeconds": 55
+  },
+  {
+    "timestamp": "2025-04-24T06:20:20.848Z",
+    "app": "WhatsApp.exe",
+    "windowTitle": "WhatsApp",
+    "durationSeconds": 10
+  },
+  {
+    "timestamp": "2025-04-24T06:20:30.861Z",
+    "app": "Microsoft Edge",
+    "windowTitle": "DeepSeek - Into the Unknown and 16 more pages - Personal - Microsoft​ Edge",
+    "durationSeconds": 185
+  },
+  {
+    "timestamp": "2025-04-24T06:23:36.056Z",
+    "app": "WhatsApp.exe",
+    "windowTitle": "WhatsApp",
+    "durationSeconds": 75
+  },
+  {
+    "timestamp": "2025-04-24T06:24:51.141Z",
+    "app": "Microsoft Edge",
+    "windowTitle": "DeepSeek - Into the Unknown and 16 more pages - Personal - Microsoft​ Edge",
+    "durationSeconds": 45
+  },
+  {
+    "timestamp": "2025-04-24T06:25:36.203Z",
+    "app": "WhatsApp.exe",
+    "windowTitle": "WhatsApp",
+    "durationSeconds": 60
+  },
+  {
+    "timestamp": "2025-04-24T06:26:36.283Z",
+    "app": "Microsoft Edge",
+    "windowTitle": "DeepSeek - Into the Unknown and 16 more pages - Personal - Microsoft​ Edge",
+    "durationSeconds": 10
+  },
+  {
+    "timestamp": "2025-04-24T06:26:46.297Z",
+    "app": "Windows Explorer",
+    "windowTitle": "Task View",
+    "durationSeconds": 5
+  },
+  {
+    "timestamp": "2025-04-24T06:26:51.301Z",
+    "app": "Google Chrome",
+    "windowTitle": "New Tab - Google Chrome",
+    "durationSeconds": 5
+  },
+  {
+    "timestamp": "2025-04-24T06:26:56.301Z",
+    "app": "Google Chrome",
+    "windowTitle": "Lovable - Google Chrome",
+    "durationSeconds": 25
+  },
+  {
+    "timestamp": "2025-04-24T06:27:21.341Z",
+    "app": "Google Chrome",
+    "windowTitle": "Lovable - Build for the web 20x faster - Google Chrome",
+    "durationSeconds": 5
+  },
+  {
+    "timestamp": "2025-04-24T06:27:26.355Z",
+    "app": "WhatsApp.exe",
+    "windowTitle": "WhatsApp",
+    "durationSeconds": 5
+  },
+  {
+    "timestamp": "2025-04-24T06:27:31.377Z",
+    "app": "Windows Explorer",
+    "windowTitle": "Task View",
+    "durationSeconds": 5
+  },
+  {
+    "timestamp": "2025-04-24T06:27:36.378Z",
+    "app": "Microsoft Edge",
+    "windowTitle": "DeepSeek - Into the Unknown and 16 more pages - Personal - Microsoft​ Edge",
+    "durationSeconds": 5
+  }
+]

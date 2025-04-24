@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>SmartBill Control</title>
+</head>
+<body style="display:flex;flex-direction:column;align-items:center;justify-content:center;height:100vh;margin:0">
+  <button id="start" style="padding:8px 12px;margin:4px">Start Tracking</button>
+  <button id="stop"  style="padding:8px 12px;margin:4px">Stop Tracking</button>
+  <script>
+    // This lets us send messages back to main.js
+    const { ipcRenderer } = require('electron');
+    document.getElementById('start').onclick = () => ipcRenderer.send('control','start');
+    document.getElementById('stop'). onclick = () => ipcRenderer.send('control','stop');
+  </script>
+</body>
+</html>
